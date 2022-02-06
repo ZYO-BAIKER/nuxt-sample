@@ -81,7 +81,6 @@
 </template>
 
 <script>
-import Logo from '~/components/NuxtLogo.vue';
 export default {
   name: 'IndexPage',
 }
